@@ -8,7 +8,7 @@ namespace Embala
 {
     abstract class OpenAi
     {
-        private static string _key = "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";
+        private static string _key = "A key"; //You thought i'm that dumb
 
         public static string Key { get { return _key; } }
     }
